@@ -41,10 +41,3 @@ THEN that note appears in the righthand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the righthand column
 ```
-
-## Application ScreenShot Preview
-
-![Note_Taker_Express](./Develop/images/Note_Taker_Image.png)
-
-
-asdasd
