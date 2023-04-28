@@ -1,8 +1,8 @@
 // Import express package
 const express = require("express");
 const path = require("path");
-const htmlRoutes = require("./routes/htmlRoutes");
-const apiRoutes = require("./routes/apiRoutes");
+const htmlRoutes = require("./routes/assets/htmlRoutes");
+const apiRoutes = require("./routes/assets/apiRoutes");
 
 // Require the JSON file and assign it to a variable called `termData`
 const { request } = require("http");
